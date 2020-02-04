@@ -1,0 +1,2 @@
+# lambda_elasticsearch_docRegister
+S3から取得したファイルをElasticSearchにインデクシングするスクリプト
